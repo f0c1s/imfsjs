@@ -1,0 +1,21 @@
+{
+  "name": "@f0c1s/imfsjs",
+  "version": "0.0.0",
+  "description": "In-memory file system in JavaScript",
+  "main": "src/fs.js",
+  "scripts": {
+    "test": "node_modules/.bin/jasmine"
+  },
+  "keywords": [
+    "in-memory",
+    "file",
+    "system",
+    "javascript",
+    "file system"
+  ],
+  "author": "Anubhav Saini <iamanubhavsaini@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
